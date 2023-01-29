@@ -1,1 +1,1 @@
-# ai-app
+# AI-app
